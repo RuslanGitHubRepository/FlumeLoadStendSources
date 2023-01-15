@@ -1,0 +1,9 @@
+db:
+  name: monitoring
+  user: writeUser
+  password: write
+  port: 8123
+  host: 127.0.0.1
+  table: activity
+  socketTimeoutSec: 10
+  ssl: false
